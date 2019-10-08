@@ -3,7 +3,8 @@
 ## Desain Infranstruktur
 
 <p align="center">
-<img src="GroupReplication.png">
+<img src="images/GroupReplication.png">
+<img src="images/GroupReplikasi.png">
 </p>
 
 <h3>Terdiri dari 4 server</h3>
