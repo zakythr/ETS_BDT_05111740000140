@@ -14,5 +14,5 @@
 -	Server untuk Database dua = Alamat IP 192.168.17.143; memiliki RAM 512MB; menggunakan sistem operasi ubuntu
 -	Server untuk Database tiga = Alamat IP 192.168.17.144; memiliki RAM 512MB; menggunakan sistem operasi ubuntu
 
-<h6>NB : Hub untuk menghubungkan 3 Database Server menuju Load Balancer karena di toolsnya server hanya terdapat 2 lubang LAN</h6>
+<h5>NB : Hub untuk menghubungkan 3 Database Server menuju Load Balancer karena di toolsnya server hanya terdapat 2 lubang LAN</h5>
 
