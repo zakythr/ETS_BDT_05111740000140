@@ -1,3 +1,3 @@
 # ETS_BDT_05111740000140
 
-<center> <img src="GroupReplication.png"> </center>
+<img src="GroupReplication.png" width="20%" height="20%" style="display: block; margin: auto;">
