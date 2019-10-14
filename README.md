@@ -25,24 +25,24 @@
 
 <h4>Langkah 2</h4>
 - Mengatur Shared replication group configuration dan Host specific replication configuration dari db 1
-<img src="images/Setting_my11cnf.png">
+<img src="images/Setting_my11cnf.PNG">
 
 <h4>Langkah 3</h4>
 - Mengatur Shared replication group configuration dan Host specific replication configuration dari db 2
-<img src="images/Setting_my12cnf.png">
+<img src="images/Setting_my12cnf.PNG">
 
 <h4>Langkah 4</h4>
 - Mengatur Shared replication group configuration dan Host specific replication configuration dari db 3
-<img src="images/Setting_my13cnf.png">
+<img src="images/Setting_my13cnf.PNG">
 
 <h4>Langkah 5</h4>
 - Mengaktifkan Cluster bootstrapping dari deployMySQL11
-<img src="images/deployMySql11.png">
+<img src="images/deployMySql11.PNG">
 
 <h4>Langkah 6</h4>
 - Mengaktifkan Cluster bootstrapping dari deployMySQL12
-<img src="images/deployMySql12.png">
+<img src="images/deployMySql12.PNG">
 
 <h4>Langkah 7</h4>
 - Mengaktifkan Cluster bootstrapping dari deployMySQL13
-<img src="images/deployMySql13.png">
+<img src="images/deployMySql13.PNG">
