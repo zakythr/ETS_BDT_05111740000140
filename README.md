@@ -61,5 +61,5 @@ Dengan password "admin
 
 <h4>Langkah 10</h4>
 - Me-Run per baris dari file proxysql.sql
-<img src="images/proxysql1.PNG">
-<img src="images/proxysql2.PNG">
+<img src="images/proxysql1.png">
+<img src="images/proxysql2.png">
