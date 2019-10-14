@@ -46,3 +46,9 @@
 <h4>Langkah 7</h4>
 - Mengaktifkan Cluster bootstrapping dari deployMySQL13
 <img src="images/deployMySql13.PNG">
+
+<h4>Langkah 8</h4>
+- Lalu lakukan perintah "vagrant up" pada terminal
+
+<h4>Langkah 9</h4>
+- Setelah db1, db2, db3, dan proxy berhasil dibuat. Lalu lakukan perintah mysql -u admin -p -h 127.0.0.1 -P 6032 --prompt='ProxySQLAdmin> '
