@@ -52,6 +52,7 @@
 
 <h4>Langkah 9</h4>
 - Setelah db1, db2, db3, dan proxy berhasil dibuat. Lalu lakukan perintah
+
 ```
 mysql -u admin -p -h 127.0.0.1 -P 6032 --prompt='ProxySQLAdmin> '
 ```
