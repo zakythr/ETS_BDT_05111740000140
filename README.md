@@ -63,3 +63,28 @@ Dengan password "admin
 - Me-Run per baris dari file proxysql.sql
 <img src="images/proxysql1.png">
 <img src="images/proxysql2.png">
+
+<h4>Langkah 11</h4>
+- Mengecek Group Replicatin pada db 1
+<img src="images/memberReplication.PNG">
+
+<h4>Langkah 11</h4>
+- Mengecek Proxy Active pada proxy
+<img src="images/proxyActive.PNG">
+
+## Mengatur Web Server
+
+<h4>Langkah 1</h4>
+- Lakukan perintah berikut pada proxy
+
+```
+sudo apt install php
+```
+
+<h4>Langkah 2</h4>
+- Lakukan perintah berikut pada proxy
+
+```
+sudo apt install -y apache2 php php7.0-dom php7.0-mbstring php7.0-gd php7.0-zip \
+     php7.0-bcmath php7.0-json php7.0-mysql php7.0-pdo php7.0-intl
+```
