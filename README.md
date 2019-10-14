@@ -17,3 +17,8 @@
 
 <h5>NB : Hub untuk menghubungkan 3 Database Server menuju Load Balancer karena di toolsnya server hanya terdapat 2 lubang LAN</h5>
 
+## Tahapan Group Replication Dengan Vagrant
+
+<h4>Tahap 1</h4>
+<img src="images/vagrantfile.png">
+
