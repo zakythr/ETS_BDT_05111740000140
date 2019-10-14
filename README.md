@@ -51,8 +51,15 @@
 - Lalu lakukan perintah "vagrant up" pada terminal
 
 <h4>Langkah 9</h4>
-- Setelah db1, db2, db3, dan proxy berhasil dibuat. Lalu lakukan perintah
+- Setelah db1, db2, db3, dan proxy berhasil dibuat. Lalu masuk ke proxy "vagrant ssh proxy" lakukan perintah
 
 ```
 mysql -u admin -p -h 127.0.0.1 -P 6032 --prompt='ProxySQLAdmin> '
 ```
+
+Dengan password "admin
+
+<h4>Langkah 10</h4>
+- Me-Run per baris dari file proxysql.sql
+<img src="images/proxysql1.PNG">
+<img src="images/proxysql2.PNG">
